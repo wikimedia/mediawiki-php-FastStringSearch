@@ -1,0 +1,7 @@
+This feature has been deprecated and should not be used with current versions of MediaWiki. This
+feature was deprecated and removed completely in version 1.27.
+
+FastStringSearch was obsoleted by PHP 5.5, and MediaWiki hasn't used it since pre-1.27.
+Additionally, it's problematic to distribute binaries of it because of licensing issues.
+
+Please see <https://phabricator.wikimedia.org/T186684> for more information.
